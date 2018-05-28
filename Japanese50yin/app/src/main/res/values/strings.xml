@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">Japanese 50yin</string>
-    <string name="Show">显示</string>
-    <string name="Next">下一个</string>
-    <string name="Pingjia">平假名</string>
-    <string name="Pianjia">片假名</string>
-    <string name="Sound">发音</string>
-    <string name="pic_50yin">50音图</string>
-</resources>
